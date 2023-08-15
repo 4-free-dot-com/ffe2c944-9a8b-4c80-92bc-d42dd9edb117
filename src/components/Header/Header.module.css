@@ -1,0 +1,91 @@
+.root {
+  background: linear-gradient(180deg, #000000 0%, #00000000 100%);
+  display: flex;
+  flex-direction: row;
+  gap: 0px;
+  padding: 40px 40px;
+  align-items: center;
+  justify-content: center;
+  position: relative;
+  width: 1024px;
+}
+
+.group {
+  display: flex;
+  flex-direction: row;
+  gap: 178px;
+  padding: 0;
+  align-items: center;
+  justify-content: space-between;
+  position: relative;
+  width: 944px;
+  min-width: 944px;
+  flex-grow: 0;
+}
+
+.group2 {
+  display: flex;
+  flex-direction: row;
+  gap: 13px;
+  padding: 0;
+  align-items: center;
+  justify-content: center;
+  position: relative;
+}
+
+.button1 {
+  position: relative;
+}
+
+.text4 {
+}
+
+.button {
+  position: relative;
+}
+
+.text3 {
+}
+
+.group1 {
+  display: flex;
+  flex-direction: row;
+  gap: 36px;
+  padding: 0;
+  align-items: center;
+  justify-content: center;
+  position: relative;
+}
+
+.text2 {
+  font-family: inherit;
+  font-weight: 300;
+  font-size: 14px;
+  text-align: left;
+  color: #ffffff;
+}
+
+.text1 {
+  font-family: inherit;
+  font-weight: 300;
+  font-size: 14px;
+  text-align: left;
+  color: #ffffff;
+}
+
+.text {
+  font-family: inherit;
+  font-weight: 300;
+  font-size: 14px;
+  text-align: left;
+  color: #ffffff;
+}
+
+.kubimusiclogo2X {
+  background: url('https://assets.kubi.design/d9b713db-ac7a-465a-82d2-53ab0458ffea/f639a405-f486-4a47-b8dc-5e7f6010832b.png')
+    50% 50% / contain no-repeat;
+  height: 44px;
+  width: 83px;
+  min-width: 83px;
+  flex-grow: 0;
+}

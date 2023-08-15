@@ -1,0 +1,176 @@
+.root {
+  background: linear-gradient(180deg, #0065ff00 31%, #005dffc7 100%),
+    url('https://images.unsplash.com/photo-1470225620780-dba8ba36b745?crop=entropy&cs=srgb&fm=jpg&ixid=Mnw0MDIyNjh8MHwxfHNlYXJjaHwxfHxtdXNpY3xlbnwwfHx8fDE2ODA2MDMzNzU&ixlib=rb-4.0.3&q=85')
+      50% 50% / cover no-repeat;
+  height: auto;
+  width: 1120px;
+  min-height: 100vh;
+  max-height: unset;
+  position: static;
+  margin: 0 auto;
+}
+
+.group3 {
+  display: flex;
+  flex-direction: column;
+  gap: 30px;
+  padding: 0;
+  align-items: start;
+  justify-content: center;
+  position: absolute;
+  top: 28.43%;
+  left: 24.16%;
+  right: 21.07%;
+  bottom: 29.43%;
+  width: unset;
+}
+
+.getAccessButton {
+  transition: all 300ms ease 0ms;
+  display: flex;
+  flex-direction: row;
+  gap: 0px;
+  padding: 14px 30px;
+  align-items: center;
+  justify-content: center;
+  border-radius: 38px;
+  background: #ffffff;
+  position: relative;
+}
+
+.getAccessButton:hover {
+  background: rgba(255, 255, 255, 0.9);
+  position: relative;
+}
+
+.text7 {
+  font-family: inherit;
+  font-weight: 500;
+  font-size: 16px;
+  text-align: left;
+  color: #000;
+}
+
+.title {
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+  padding: 0;
+  align-items: center;
+  justify-content: center;
+  position: relative;
+  width: 647px;
+}
+
+.text6 {
+  font-family: inherit;
+  font-weight: 600;
+  font-size: 20px;
+  text-align: left;
+  color: #ffffff;
+  width: 647px;
+}
+
+.text5 {
+  font-family: inherit;
+  font-weight: 600;
+  font-size: 80px;
+  text-align: left;
+  color: #ffffff;
+  width: 647px;
+}
+
+.header {
+  background: linear-gradient(180deg, #000000 0%, #00000000 100%);
+  display: flex;
+  flex-direction: row;
+  gap: 0px;
+  padding: 40px 40px;
+  align-items: center;
+  justify-content: center;
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  right: 0px;
+  width: unset;
+}
+
+.group {
+  display: flex;
+  flex-direction: row;
+  gap: 178px;
+  padding: 0;
+  align-items: center;
+  justify-content: space-between;
+  position: relative;
+  width: 944px;
+  min-width: 944px;
+  flex-grow: 0;
+}
+
+.group2 {
+  display: flex;
+  flex-direction: row;
+  gap: 13px;
+  padding: 0;
+  align-items: center;
+  justify-content: center;
+  position: relative;
+}
+
+.button1 {
+  position: relative;
+}
+
+.text4 {
+}
+
+.button {
+  position: relative;
+}
+
+.text3 {
+}
+
+.group1 {
+  display: flex;
+  flex-direction: row;
+  gap: 36px;
+  padding: 0;
+  align-items: center;
+  justify-content: center;
+  position: relative;
+}
+
+.text2 {
+  font-family: inherit;
+  font-weight: 300;
+  font-size: 14px;
+  text-align: left;
+  color: #ffffff;
+}
+
+.text1 {
+  font-family: inherit;
+  font-weight: 300;
+  font-size: 14px;
+  text-align: left;
+  color: #ffffff;
+}
+
+.text {
+  font-family: inherit;
+  font-weight: 300;
+  font-size: 14px;
+  text-align: left;
+  color: #ffffff;
+}
+
+.kubimusiclogo2X {
+  background: url('https://assets.kubi.design/d9b713db-ac7a-465a-82d2-53ab0458ffea/f639a405-f486-4a47-b8dc-5e7f6010832b.png')
+    50% 50% / contain no-repeat;
+  height: 44px;
+  width: 100px;
+  min-width: 100px;
+  flex-grow: 0;
+}

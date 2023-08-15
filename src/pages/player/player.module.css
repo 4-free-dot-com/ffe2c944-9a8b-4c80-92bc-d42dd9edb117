@@ -1,0 +1,1169 @@
+.root {
+  background: #222222;
+  height: auto;
+  width: 1120px;
+  min-height: 100vh;
+  max-height: unset;
+  position: static;
+  margin: 0 auto;
+}
+
+.group24 {
+  display: flex;
+  flex-direction: column;
+  gap: 14px;
+  padding: 0;
+  align-items: start;
+  justify-content: center;
+  position: absolute;
+  top: 378px;
+  left: 172px;
+  right: unset;
+}
+
+.shape15 {
+  border-radius: 8px;
+  background: rgba(255, 255, 255, 0.08);
+  position: relative;
+  height: 366px;
+  width: 370px;
+  min-height: 366px;
+}
+
+.group27 {
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+  padding: 0;
+  align-items: center;
+  justify-content: center;
+  position: absolute;
+  top: 226px;
+  left: 64px;
+  right: unset;
+}
+
+.group31 {
+  display: flex;
+  flex-direction: row;
+  gap: 34px;
+  padding: 0;
+  align-items: center;
+  justify-content: space-between;
+  position: relative;
+}
+
+.repeaticon2X {
+  background: url('https://assets.kubi.design/d9b713db-ac7a-465a-82d2-53ab0458ffea/3b8d91b2-2c39-4195-9c17-d6f718448091.png')
+    50% 50% / contain no-repeat;
+  transition: all 300ms ease 0ms;
+  height: 18px;
+  width: 18px;
+  min-width: 18px;
+  flex-grow: 0;
+}
+
+.repeaticon2X:hover {
+  transform: scale(1.1);
+  height: 18px;
+  width: 18px;
+  min-width: 18px;
+  flex-grow: 0;
+}
+
+.nexticon2X {
+  background: url('https://assets.kubi.design/d9b713db-ac7a-465a-82d2-53ab0458ffea/b4028267-80b4-4e60-a2fe-bb8b819de5fa.png')
+    50% 50% / contain no-repeat;
+  transition: all 300ms ease 0ms;
+  height: 18px;
+  width: 18px;
+  min-width: 18px;
+  flex-grow: 0;
+}
+
+.nexticon2X:hover {
+  transform: scale(1.1);
+  height: 18px;
+  width: 18px;
+  min-width: 18px;
+  flex-grow: 0;
+}
+
+.playicon2X {
+  background: url('https://assets.kubi.design/d9b713db-ac7a-465a-82d2-53ab0458ffea/98d6a1e7-ccc8-4d10-8b77-0011348bdb25.png')
+    50% 50% / contain no-repeat;
+  transition: all 300ms ease 0ms;
+  height: 44px;
+  width: 44px;
+  min-width: 44px;
+  flex-grow: 0;
+}
+
+.playicon2X:hover {
+  transform: scale(1.1);
+  height: 44px;
+  width: 44px;
+  min-width: 44px;
+  flex-grow: 0;
+}
+
+.playicon2X:active {
+  transform: scale(0.95);
+  height: 44px;
+  width: 44px;
+  min-width: 44px;
+  flex-grow: 0;
+}
+
+.previcon2X {
+  background: url('https://assets.kubi.design/d9b713db-ac7a-465a-82d2-53ab0458ffea/ff26d123-f3fa-46bd-906a-61fd52276f8e.png')
+    50% 50% / contain no-repeat;
+  transition: all 300ms ease 0ms;
+  height: 18px;
+  width: 18px;
+  min-width: 18px;
+  flex-grow: 0;
+}
+
+.previcon2X:hover {
+  transform: scale(1.1);
+  height: 18px;
+  width: 18px;
+  min-width: 18px;
+  flex-grow: 0;
+}
+
+.shuffleicon2X {
+  background: url('https://assets.kubi.design/d9b713db-ac7a-465a-82d2-53ab0458ffea/f18e21ff-ef19-46ab-84d5-87c9350ea6fb.png')
+    50% 50% / contain no-repeat;
+  transition: all 300ms ease 0ms;
+  height: 17px;
+  width: 18px;
+  min-width: 18px;
+  flex-grow: 0;
+}
+
+.shuffleicon2X:hover {
+  transform: scale(1.1);
+  height: 17px;
+  width: 18px;
+  min-width: 18px;
+  flex-grow: 0;
+}
+
+.group28 {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  padding: 0;
+  align-items: center;
+  justify-content: center;
+  position: relative;
+  width: 252px;
+}
+
+.group30 {
+  display: flex;
+  flex-direction: row;
+  gap: 166px;
+  padding: 0;
+  align-items: center;
+  justify-content: space-between;
+  position: relative;
+  width: initial;
+  align-self: stretch;
+}
+
+.text36 {
+  font-family: inherit;
+  font-weight: 400;
+  font-size: 11px;
+  text-align: right;
+  color: rgba(255, 255, 255, 0.5);
+  width: 37px;
+  min-width: 37px;
+  flex-grow: 0;
+}
+
+.text35 {
+  font-family: inherit;
+  font-weight: 400;
+  font-size: 11px;
+  text-align: left;
+  color: rgba(255, 255, 255, 0.5);
+  width: 49px;
+  min-width: 49px;
+  flex-grow: 0;
+}
+
+.group29 {
+  position: relative;
+  height: 3px;
+  width: initial;
+  min-height: 3px;
+  align-self: stretch;
+}
+
+.shape18 {
+  border-radius: 10px;
+  background: #efefef;
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  right: unset;
+  height: 3px;
+  width: 60px;
+}
+
+.shape17 {
+  border-radius: 10px;
+  background: #ffffff1a;
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  right: 0px;
+  height: 3px;
+  width: unset;
+}
+
+.group25 {
+  display: flex;
+  flex-direction: column;
+  gap: 14px;
+  padding: 0;
+  align-items: center;
+  justify-content: center;
+  position: absolute;
+  top: 50px;
+  left: 140px;
+  right: unset;
+}
+
+.group26 {
+  display: flex;
+  flex-direction: column;
+  gap: 2px;
+  padding: 0;
+  align-items: center;
+  justify-content: center;
+  position: relative;
+  height: 29px;
+  width: 100px;
+  min-height: 29px;
+}
+
+.text34 {
+  font-family: inherit;
+  font-weight: 400;
+  font-size: 11px;
+  text-align: center;
+  color: rgba(255, 255, 255, 0.5);
+  width: initial;
+  align-self: stretch;
+}
+
+.text33 {
+  font-family: inherit;
+  font-weight: 600;
+  font-size: 13px;
+  text-align: center;
+  color: #ffffff;
+  width: initial;
+  align-self: stretch;
+}
+
+.shape16 {
+  border-radius: 20px;
+  background: url('https://assets.kubi.design/d9b713db-ac7a-465a-82d2-53ab0458ffea/9650e870-8835-45b2-8839-55a53b1bc5d4.jpeg')
+    50% 50% / cover no-repeat;
+  height: 100px;
+  width: 100px;
+  min-height: 100px;
+}
+
+.text32 {
+  font-family: inherit;
+  font-weight: 500;
+  font-size: 16px;
+  text-align: left;
+  color: rgba(255, 255, 255, 0.5);
+}
+
+.group17 {
+  display: flex;
+  flex-direction: column;
+  gap: 16px;
+  padding: 0;
+  align-items: start;
+  justify-content: center;
+  position: absolute;
+  top: 118px;
+  left: 172px;
+  right: unset;
+}
+
+.group18 {
+  position: relative;
+  height: 185px;
+  width: 776px;
+  min-height: 185px;
+}
+
+.one {
+  display: flex;
+  flex-direction: column;
+  gap: 12px;
+  padding: 0;
+  align-items: start;
+  justify-content: center;
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  right: unset;
+}
+
+.group23 {
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+  padding: 0;
+  align-items: start;
+  justify-content: center;
+  position: relative;
+}
+
+.text31 {
+  font-family: inherit;
+  font-weight: 400;
+  font-size: 11px;
+  text-align: left;
+  color: rgba(255, 255, 255, 0.5);
+  width: initial;
+  align-self: stretch;
+}
+
+.text30 {
+  font-family: inherit;
+  font-weight: 600;
+  font-size: 13px;
+  text-align: left;
+  color: #ffffff;
+  width: initial;
+  align-self: stretch;
+}
+
+.shape14 {
+  border-radius: 20px;
+  background: url('https://assets.kubi.design/d9b713db-ac7a-465a-82d2-53ab0458ffea/d9d86dd1-5fe6-48bd-832a-686201e7d9e0.jpeg')
+    50% 50% / cover no-repeat;
+  height: 136px;
+  width: 136px;
+  min-height: 136px;
+}
+
+.two {
+  display: flex;
+  flex-direction: column;
+  gap: 12px;
+  padding: 0;
+  align-items: start;
+  justify-content: center;
+  position: absolute;
+  top: 0px;
+  left: 480px;
+  right: unset;
+}
+
+.group22 {
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+  padding: 0;
+  align-items: start;
+  justify-content: center;
+  position: relative;
+  width: initial;
+  align-self: stretch;
+}
+
+.text29 {
+  font-family: inherit;
+  font-weight: 400;
+  font-size: 11px;
+  text-align: left;
+  color: rgba(255, 255, 255, 0.5);
+  width: initial;
+  align-self: stretch;
+}
+
+.text28 {
+  font-family: inherit;
+  font-weight: 600;
+  font-size: 13px;
+  text-align: left;
+  color: #ffffff;
+  width: initial;
+  align-self: stretch;
+}
+
+.shape13 {
+  border-radius: 20px;
+  background: url('https://assets.kubi.design/d9b713db-ac7a-465a-82d2-53ab0458ffea/599997e4-278e-472b-b01a-c085aee60942.jpeg')
+    50% 50% / cover no-repeat;
+  height: 136px;
+  width: 136px;
+  min-height: 136px;
+}
+
+.three {
+  display: flex;
+  flex-direction: column;
+  gap: 12px;
+  padding: 0;
+  align-items: start;
+  justify-content: center;
+  position: absolute;
+  top: 0px;
+  left: 160px;
+  right: unset;
+}
+
+.group21 {
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+  padding: 0;
+  align-items: start;
+  justify-content: center;
+  position: relative;
+  width: initial;
+  align-self: stretch;
+}
+
+.text27 {
+  font-family: inherit;
+  font-weight: 400;
+  font-size: 11px;
+  text-align: left;
+  color: rgba(255, 255, 255, 0.5);
+  width: initial;
+  align-self: stretch;
+}
+
+.text26 {
+  font-family: inherit;
+  font-weight: 600;
+  font-size: 13px;
+  text-align: left;
+  color: #ffffff;
+  width: initial;
+  align-self: stretch;
+}
+
+.shape12 {
+  border-radius: 20px;
+  background: url('https://assets.kubi.design/d9b713db-ac7a-465a-82d2-53ab0458ffea/9650e870-8835-45b2-8839-55a53b1bc5d4.jpeg')
+    50% 50% / cover no-repeat;
+  height: 136px;
+  width: 136px;
+  min-height: 136px;
+}
+
+.four {
+  display: flex;
+  flex-direction: column;
+  gap: 12px;
+  padding: 0;
+  align-items: start;
+  justify-content: center;
+  position: absolute;
+  top: 0px;
+  left: 320px;
+  right: unset;
+}
+
+.group20 {
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+  padding: 0;
+  align-items: start;
+  justify-content: center;
+  position: relative;
+  width: initial;
+  align-self: stretch;
+}
+
+.text25 {
+  font-family: inherit;
+  font-weight: 400;
+  font-size: 11px;
+  text-align: left;
+  color: rgba(255, 255, 255, 0.5);
+  width: initial;
+  align-self: stretch;
+}
+
+.text24 {
+  font-family: inherit;
+  font-weight: 600;
+  font-size: 13px;
+  text-align: left;
+  color: #ffffff;
+  width: initial;
+  align-self: stretch;
+}
+
+.shape11 {
+  border-radius: 20px;
+  background: url('https://assets.kubi.design/d9b713db-ac7a-465a-82d2-53ab0458ffea/5b219631-77fd-4c09-b8e2-978d25791e0f.jpeg')
+    50% 50% / cover no-repeat;
+  height: 136px;
+  width: 136px;
+  min-height: 136px;
+}
+
+.five {
+  display: flex;
+  flex-direction: column;
+  gap: 12px;
+  padding: 0;
+  align-items: start;
+  justify-content: center;
+  position: absolute;
+  top: 0px;
+  left: 640px;
+  right: unset;
+}
+
+.group19 {
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+  padding: 0;
+  align-items: start;
+  justify-content: center;
+  position: relative;
+  width: initial;
+  align-self: stretch;
+}
+
+.text23 {
+  font-family: inherit;
+  font-weight: 400;
+  font-size: 11px;
+  text-align: left;
+  color: rgba(255, 255, 255, 0.5);
+  width: initial;
+  align-self: stretch;
+}
+
+.text22 {
+  font-family: inherit;
+  font-weight: 600;
+  font-size: 13px;
+  text-align: left;
+  color: #ffffff;
+  width: initial;
+  align-self: stretch;
+}
+
+.shape10 {
+  border-radius: 20px;
+  background: url('https://assets.kubi.design/d9b713db-ac7a-465a-82d2-53ab0458ffea/c101de14-251b-425f-b96b-cfe7d5015829.jpg')
+    50% 50% / cover no-repeat;
+  height: 136px;
+  width: 136px;
+  min-height: 136px;
+}
+
+.text21 {
+  font-family: inherit;
+  font-weight: 500;
+  font-size: 16px;
+  text-align: left;
+  color: rgba(255, 255, 255, 0.5);
+}
+
+.group1 {
+  display: flex;
+  flex-direction: column;
+  gap: 14px;
+  padding: 0;
+  align-items: start;
+  justify-content: center;
+  position: absolute;
+  top: 378px;
+  left: 578px;
+  right: unset;
+}
+
+.shape8 {
+  display: flex;
+  flex-direction: row;
+  gap: 13px;
+  padding: 13px 15px;
+  align-items: center;
+  justify-content: space-between;
+  border-radius: 8px;
+  background: rgba(255, 255, 255, 0.08);
+  backdrop-filter: blur(10px);
+  position: relative;
+  width: 370px;
+}
+
+.group15 {
+  display: flex;
+  flex-direction: row;
+  gap: 21px;
+  padding: 0;
+  align-items: center;
+  justify-content: space-between;
+  position: relative;
+  width: 257px;
+  min-width: 257px;
+  flex-grow: 0;
+}
+
+.text20 {
+  font-family: inherit;
+  font-weight: 400;
+  font-size: 11px;
+  text-align: right;
+  color: rgba(255, 255, 255, 0.5);
+  width: initial;
+  min-width: initial;
+  flex-grow: 1;
+}
+
+.group16 {
+  display: flex;
+  flex-direction: row;
+  gap: 0px;
+  padding: 0;
+  align-items: center;
+  justify-content: center;
+  position: relative;
+}
+
+.text19 {
+  font-family: inherit;
+  font-weight: 400;
+  font-size: 11px;
+  text-align: right;
+  color: rgba(255, 255, 255, 0.5);
+  width: 121px;
+  min-width: 121px;
+  flex-grow: 0;
+}
+
+.text18 {
+  font-family: inherit;
+  font-weight: 600;
+  font-size: 12px;
+  text-align: left;
+  color: #ffffff;
+  width: 92px;
+  min-width: 92px;
+  flex-grow: 0;
+}
+
+.group14 {
+  display: flex;
+  flex-direction: row;
+  gap: 13px;
+  padding: 0;
+  align-items: center;
+  justify-content: center;
+  position: relative;
+}
+
+.shape9 {
+  border-radius: 8px;
+  background: url('https://assets.kubi.design/d9b713db-ac7a-465a-82d2-53ab0458ffea/33da79b0-b271-4b50-aafd-7d7372168c71.png')
+    50% 50% / cover no-repeat;
+  height: 36px;
+  width: 36px;
+  min-width: 36px;
+  flex-grow: 0;
+}
+
+.text17 {
+  font-family: inherit;
+  font-weight: 600;
+  font-size: 13px;
+  text-align: right;
+  color: #ffffff;
+  width: 16px;
+  min-width: 16px;
+  flex-grow: 0;
+}
+
+.shape6 {
+  display: flex;
+  flex-direction: row;
+  gap: 13px;
+  padding: 13px 15px;
+  align-items: center;
+  justify-content: space-between;
+  border-radius: 8px;
+  background: rgba(255, 255, 255, 0.08);
+  backdrop-filter: blur(10px);
+  position: relative;
+  width: 370px;
+}
+
+.group12 {
+  display: flex;
+  flex-direction: row;
+  gap: 21px;
+  padding: 0;
+  align-items: center;
+  justify-content: space-between;
+  position: relative;
+  width: 257px;
+  min-width: 257px;
+  flex-grow: 0;
+}
+
+.text16 {
+  font-family: inherit;
+  font-weight: 400;
+  font-size: 11px;
+  text-align: right;
+  color: rgba(255, 255, 255, 0.5);
+  width: 23px;
+  min-width: 23px;
+  flex-grow: 0;
+}
+
+.group13 {
+  display: flex;
+  flex-direction: row;
+  gap: 0px;
+  padding: 0;
+  align-items: center;
+  justify-content: center;
+  position: relative;
+}
+
+.text15 {
+  font-family: inherit;
+  font-weight: 400;
+  font-size: 11px;
+  text-align: right;
+  color: rgba(255, 255, 255, 0.5);
+  width: 121px;
+  min-width: 121px;
+  flex-grow: 0;
+}
+
+.text14 {
+  font-family: inherit;
+  font-weight: 600;
+  font-size: 12px;
+  text-align: left;
+  color: #ffffff;
+  width: 92px;
+  min-width: 92px;
+  flex-grow: 0;
+}
+
+.group11 {
+  display: flex;
+  flex-direction: row;
+  gap: 13px;
+  padding: 0;
+  align-items: center;
+  justify-content: center;
+  position: relative;
+}
+
+.shape7 {
+  border-radius: 8px;
+  background: url('https://assets.kubi.design/d9b713db-ac7a-465a-82d2-53ab0458ffea/55e124f4-7c28-499a-94c1-09751f9fdd45.png')
+    50% 50% / cover no-repeat;
+  height: 36px;
+  width: 36px;
+  min-width: 36px;
+  flex-grow: 0;
+}
+
+.text13 {
+  font-family: inherit;
+  font-weight: 600;
+  font-size: 13px;
+  text-align: right;
+  color: #ffffff;
+  width: 16px;
+  min-width: 16px;
+  flex-grow: 0;
+}
+
+.shape4 {
+  display: flex;
+  flex-direction: row;
+  gap: 13px;
+  padding: 13px 15px;
+  align-items: center;
+  justify-content: space-between;
+  border-radius: 8px;
+  background: rgba(255, 255, 255, 0.08);
+  backdrop-filter: blur(10px);
+  position: relative;
+  width: 370px;
+}
+
+.group9 {
+  display: flex;
+  flex-direction: row;
+  gap: 21px;
+  padding: 0;
+  align-items: center;
+  justify-content: space-between;
+  position: relative;
+  width: initial;
+  min-width: initial;
+  flex-grow: 1;
+}
+
+.text12 {
+  font-family: inherit;
+  font-weight: 400;
+  font-size: 11px;
+  text-align: right;
+  color: rgba(255, 255, 255, 0.5);
+  width: initial;
+  min-width: initial;
+  flex-grow: 1;
+}
+
+.group10 {
+  display: flex;
+  flex-direction: row;
+  gap: 0px;
+  padding: 0;
+  align-items: center;
+  justify-content: center;
+  position: relative;
+}
+
+.text11 {
+  font-family: inherit;
+  font-weight: 400;
+  font-size: 11px;
+  text-align: right;
+  color: rgba(255, 255, 255, 0.5);
+  width: 121px;
+  min-width: 121px;
+  flex-grow: 0;
+}
+
+.text10 {
+  font-family: inherit;
+  font-weight: 600;
+  font-size: 12px;
+  text-align: left;
+  color: #ffffff;
+  width: 92px;
+  min-width: 92px;
+  flex-grow: 0;
+}
+
+.group8 {
+  display: flex;
+  flex-direction: row;
+  gap: 13px;
+  padding: 0;
+  align-items: center;
+  justify-content: center;
+  position: relative;
+}
+
+.shape5 {
+  border-radius: 8px;
+  background: url('https://assets.kubi.design/d9b713db-ac7a-465a-82d2-53ab0458ffea/49beaf24-1ec9-4009-9b05-16d458092f00.png')
+    50% 50% / cover no-repeat;
+  height: 36px;
+  width: 36px;
+  min-width: 36px;
+  flex-grow: 0;
+}
+
+.text9 {
+  font-family: inherit;
+  font-weight: 600;
+  font-size: 13px;
+  text-align: right;
+  color: #ffffff;
+  width: 16px;
+  min-width: 16px;
+  flex-grow: 0;
+}
+
+.shape2 {
+  display: flex;
+  flex-direction: row;
+  gap: 13px;
+  padding: 13px 15px;
+  align-items: center;
+  justify-content: space-between;
+  border-radius: 8px;
+  background: rgba(255, 255, 255, 0.08);
+  backdrop-filter: blur(10px);
+  position: relative;
+  width: 370px;
+}
+
+.group6 {
+  display: flex;
+  flex-direction: row;
+  gap: 21px;
+  padding: 0;
+  align-items: center;
+  justify-content: space-between;
+  position: relative;
+  width: initial;
+  min-width: initial;
+  flex-grow: 1;
+}
+
+.text8 {
+  font-family: inherit;
+  font-weight: 400;
+  font-size: 11px;
+  text-align: right;
+  color: rgba(255, 255, 255, 0.5);
+  width: 28px;
+  min-width: 28px;
+  flex-grow: 0;
+}
+
+.group7 {
+  display: flex;
+  flex-direction: row;
+  gap: 0px;
+  padding: 0;
+  align-items: center;
+  justify-content: center;
+  position: relative;
+}
+
+.text7 {
+  font-family: inherit;
+  font-weight: 400;
+  font-size: 11px;
+  text-align: right;
+  color: rgba(255, 255, 255, 0.5);
+  width: 115px;
+  min-width: 115px;
+  flex-grow: 0;
+}
+
+.text6 {
+  font-family: inherit;
+  font-weight: 600;
+  font-size: 12px;
+  text-align: left;
+  color: #ffffff;
+  width: 92px;
+  min-width: 92px;
+  flex-grow: 0;
+}
+
+.group5 {
+  display: flex;
+  flex-direction: row;
+  gap: 13px;
+  padding: 0;
+  align-items: center;
+  justify-content: center;
+  position: relative;
+}
+
+.shape3 {
+  border-radius: 8px;
+  background: url('https://assets.kubi.design/d9b713db-ac7a-465a-82d2-53ab0458ffea/c101de14-251b-425f-b96b-cfe7d5015829.jpg')
+    50% 50% / cover no-repeat;
+  height: 36px;
+  width: 36px;
+  min-width: 36px;
+  flex-grow: 0;
+}
+
+.text5 {
+  font-family: inherit;
+  font-weight: 600;
+  font-size: 13px;
+  text-align: right;
+  color: #ffffff;
+  width: 16px;
+  min-width: 16px;
+  flex-grow: 0;
+}
+
+.shape {
+  display: flex;
+  flex-direction: row;
+  gap: 13px;
+  padding: 13px 15px;
+  align-items: center;
+  justify-content: space-between;
+  border-radius: 8px;
+  background: rgba(255, 255, 255, 0.08);
+  backdrop-filter: blur(10px);
+  position: relative;
+  width: 370px;
+}
+
+.group3 {
+  display: flex;
+  flex-direction: row;
+  gap: 21px;
+  padding: 0;
+  align-items: center;
+  justify-content: space-between;
+  position: relative;
+  width: initial;
+  min-width: initial;
+  flex-grow: 1;
+}
+
+.text4 {
+  font-family: inherit;
+  font-weight: 400;
+  font-size: 11px;
+  text-align: right;
+  color: rgba(255, 255, 255, 0.5);
+  width: 28px;
+  min-width: 28px;
+  flex-grow: 0;
+}
+
+.group4 {
+  display: flex;
+  flex-direction: row;
+  gap: 0px;
+  padding: 0;
+  align-items: center;
+  justify-content: center;
+  position: relative;
+}
+
+.text3 {
+  font-family: inherit;
+  font-weight: 400;
+  font-size: 11px;
+  text-align: right;
+  color: rgba(255, 255, 255, 0.5);
+  width: 115px;
+  min-width: 115px;
+  flex-grow: 0;
+}
+
+.text2 {
+  font-family: inherit;
+  font-weight: 600;
+  font-size: 12px;
+  text-align: left;
+  color: #ffffff;
+  width: 92px;
+  min-width: 92px;
+  flex-grow: 0;
+}
+
+.group2 {
+  display: flex;
+  flex-direction: row;
+  gap: 13px;
+  padding: 0;
+  align-items: center;
+  justify-content: center;
+  position: relative;
+}
+
+.shape1 {
+  border-radius: 8px;
+  background: url('https://assets.kubi.design/d9b713db-ac7a-465a-82d2-53ab0458ffea/5b219631-77fd-4c09-b8e2-978d25791e0f.jpeg')
+    50% 50% / cover no-repeat;
+  height: 36px;
+  width: 36px;
+  min-width: 36px;
+  flex-grow: 0;
+}
+
+.text1 {
+  font-family: inherit;
+  font-weight: 600;
+  font-size: 13px;
+  text-align: right;
+  color: #ffffff;
+  width: 16px;
+  min-width: 16px;
+  flex-grow: 0;
+}
+
+.text {
+  font-family: inherit;
+  font-weight: 500;
+  font-size: 16px;
+  text-align: left;
+  color: rgba(255, 255, 255, 0.5);
+}
+
+.header {
+  background: linear-gradient(180deg, #000000 0%, #00000000 100%);
+  display: flex;
+  flex-direction: row;
+  gap: 0px;
+  padding: 40px 30px;
+  align-items: center;
+  justify-content: center;
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  right: 0px;
+  height: 98px;
+  width: unset;
+}
+
+.group {
+  display: flex;
+  flex-direction: row;
+  gap: 178px;
+  padding: 0;
+  align-items: center;
+  justify-content: space-between;
+  position: relative;
+  width: initial;
+  min-width: initial;
+  flex-grow: 1;
+}
+
+.badge {
+  position: relative;
+}
+
+.avatar {
+  height: 40px;
+  width: 40px;
+}
+
+.kubimusiclogo2X {
+  background: url('https://assets.kubi.design/d9b713db-ac7a-465a-82d2-53ab0458ffea/f639a405-f486-4a47-b8dc-5e7f6010832b.png')
+    50% 50% / contain no-repeat;
+  height: 44px;
+  width: 100px;
+  min-width: 100px;
+  flex-grow: 0;
+}
+
+.gradientFooter {
+  background: linear-gradient(180deg, #00000000 0%, #000000 100%);
+  position: absolute;
+  left: 0px;
+  right: 0px;
+  bottom: 0px;
+  height: 318px;
+  width: unset;
+}
